@@ -4,3 +4,5 @@ Decoding it using
 vhs-decode input.flac <output> --system PAL --frequency 16.000000 --ct --threads 4 --recheck_phase
 ```
 With the revision of 2023-12-07 91e385cfb0e5b92a83b9c32e4434107ade0f22d1
+
+The training set was 2 hours and 40 minutes long
