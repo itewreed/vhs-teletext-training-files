@@ -8,3 +8,11 @@ Just copy the pattern folders into the vhs-teletext tool under ./vhs-teletext/te
 
 As of recently vhs-teletext now recognizes new subfolders in there.
 When deconvolving use the -f parameter and tell it the name of the new pattern folder to use these pattern.
+
+# Compatibility
+FS200 pattern files should also work on
+- FS88
+
+HD630 pattern files should also work on
+- HD620
+- HD628 EG
