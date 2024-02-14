@@ -16,3 +16,5 @@ FS200 pattern files should also work on
 HD630 pattern files should also work on
 - HD620
 - HD628 EG
+
+Try for yourself also on other vcrs. 
